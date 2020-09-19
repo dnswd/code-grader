@@ -1,7 +1,7 @@
 # SCeLE Grader
 Simple tool to review and grade codes efficiently using Python.
 
-Usage: `python scele_grader.py [assignment name]`
+Usage: `python scele_grader.py [assignment name]`  
 Example: `python scele_grader.py Lab0`
 
 Requirements:
